@@ -24,6 +24,7 @@ public class junitspro
     public void abc2()
     {
     	System.out.println("2");
+
     }
     @Test
     public void abc1()
